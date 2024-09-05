@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="please_wait"><![CDATA[PLEASE WAIT&#8230]]></string>
+
+    <string name="image_contentDescription">image</string>
+    <string name="miles_per_hour">miles/hour</string>
+    <string name="weather">Weather</string>
+    <string name="degree">Degree</string>
+    <string name="minimum">Minimum</string>
+    <string name="wind">Wind</string>
+    <string name="name">Name</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="condition">condition</string>
+    <string name="percent">percent</string>
+    <string name="maximum">Maximum</string>
+    <string name="name_location">Name</string>
+    <string name="country">Country</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+</resources>
